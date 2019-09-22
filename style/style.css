@@ -1,0 +1,46 @@
+/* Star Body */
+body {
+    background-color: aqua;
+     color:  #24292e;
+     font-family: Helvetica, Arial, sans-serif;
+     font-size: 16px;
+     line-height: 1.5em;
+     margin: 0;
+     padding: 0;
+}
+/* End Body */
+
+/* logo */
+.logo {
+    text-align: center;
+}
+/* logo */
+
+/* Star Debug */
+.bg-blue { 
+    background-color: blue;
+}
+. bg-red {
+    background-color: red;
+}
+/* End Debug */
+
+/*  */
+.container {
+     margin: 10px  auto;
+     overflow: auto;
+     width: 90%;
+}
+/* End Container */
+
+/* Star Logo */
+.logo {
+     text-align: center;
+}
+/* End Logo */
+
+/* Star Menu Primer */
+.menu-primer ul {
+    background-color: black#333333
+    border-radius: 
+}
